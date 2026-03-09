@@ -7,6 +7,11 @@ These commits are marked as **BASE N** (e.g. `BASE 1`, `BASE 2`, etc.).
 
 Each **BASE** represents a usable starting point for a track.
 
+If you want to hear the current state of the song without opening Ableton:
+* Check `/Exports/track1_BASE_1.wav`. 
+
+This is the **Reference Render** for the current BASE. If you open the project and a plugin is missing or sounding "off," refer to this file to see how it should actually sound.
+
 ### How to Fork or Collaborate:
 1. **Find a BASE:** Browse the Git tags (`BASE-1`, `BASE-2`, etc.) to jump to a specific BASE version.
 2. **Branch Out:** Create a new branch from that BASE.
