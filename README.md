@@ -34,6 +34,9 @@ This is the **Reference Render** for the current BASE. If you open the project a
 | Renaissance Bass | 13.0.0.129 Build R 243328 |
 | LFOTool | 1.762 |
 | FX23 PsyScope_PRO | 1.3.10 |
+| Cardinal | 26.02 |
+
+> **Note:** Cardinal is being explored as a possible open-souce alternative to DS Tantra 2.
 
 ---
 
