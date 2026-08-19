@@ -31,10 +31,11 @@ This is the **Reference Render** for the current BASE. If you open the project a
 | DS Tantra 2 | 2.02 [x64 VST3] |
 | FabFilter Pro-Q 3 | 3.26 (64-bit) |
 | FabFilter Saturn 2 | 2.11 (64-bit) |
-| Renaissance Bass | 13.0.0.129 Build R 243328 |
+| Denise Audio Bass XXL | 1.0 |
 | LFOTool | 1.762 |
 | FX23 PsyScope_PRO | 1.3.10 |
 | Cardinal | 26.02 |
+| JC-303 | 0.12.3 |
 
 > **Note:** Cardinal is being explored as a possible open-souce alternative to DS Tantra 2.
 
